@@ -1,7 +1,4 @@
-/*
-Author: Ryusei Takahashi
-Number: s1260242
-*/
+
 
 #include <stdio.h>
 #define N 4
